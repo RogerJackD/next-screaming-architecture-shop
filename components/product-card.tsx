@@ -39,7 +39,7 @@ export function ProductCard({ product }: ProductCardProps) {
       <CardFooter className="p-4 pt-0">
         <Button onClick={handleAddToCart} className="w-full" size="sm">
           <ShoppingCart className="h-4 w-4 mr-2" />
-          Agregar al Carrito
+          Agregar al Carritoo
         </Button>
       </CardFooter>
     </Card>
